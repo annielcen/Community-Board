@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Development Project 1 - *Community-Board*
 
 Submitted by: **Annie Cen**
